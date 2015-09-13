@@ -13,6 +13,11 @@ import javax.swing.event.MouseInputAdapter;
 /**
  * 
  * @author vthai (v2.thai@connect.qut.edu.au )
+ * to compile: javac BruteForceConvexHull.java
+ * to run: java BruteForceConvexHull
+ * to draw points: left click on the panel
+ * to draw convex hull: right click on the panel
+ * to restart: right click again
  *
  */
 
